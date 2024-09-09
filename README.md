@@ -1,3 +1,4 @@
-# Web-Design-For-Everybody-Course1-Final-Project
-A basic webpage using only HTML, CSS, however there are some bootstrap and good CSS code to use. For a course from Coursera: https://www.coursera.org/learn/html/home/module/3
-### You can access this site using https://infectedduck.github.io/Web-Design-For-Everybody-Course1-Final-Project/
+# Web-Design-For-Everybody-1st-Course-Final-Assignment
+## This task is a solution of the [Web-Design-For-Everybody](https://www.coursera.org/learn/html/home/module/3)
+## The site is located by the [link](https://infectedduck.github.io/Web-Design-For-Everybody-Course1-Final-Project/)
+### I advice you to fully make your solution on this task by yourself, however if you struggle very much, you can use this solution as an example!
